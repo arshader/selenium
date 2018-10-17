@@ -1,10 +1,10 @@
 package array;
 
-public class NewClass {
+public class TestA {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This class i added for git demo ");
+		System.out.println("Test A for git demo only");
 
 	}
 
